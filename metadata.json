@@ -1,0 +1,6 @@
+{
+  "name": "EconPulse",
+  "description": "High-density institutional market terminal and macroeconomic intelligence platform with real-time global indices, L2 depth, oil telemetry, and AI macro analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
